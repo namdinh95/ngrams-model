@@ -1,0 +1,6 @@
+# Generated text and bytecodes
+*.txt
+*.pyc
+
+# Dev env
+ngrams.py
